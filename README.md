@@ -37,34 +37,32 @@
    streamlit run emlak_asistani.py
    ```
 
-## 💡 Kullanım
+### 💡 Kullanım
 
 Tarayıcınızda açılan Streamlit arayüzünde, üst kısımdaki sekmeler arasında geçiş yaparak istediğiniz sözleşme türünü seçebilirsiniz:
 
-## 🧾 1. Kira Sözleşmesi
+### 🧾 1. Kira Sözleşmesi
 
 - Kiralananın ve tarafların adres, kimlik, kira bedeli gibi tüm bilgilerini girin.
 - “Sözleşmeyi Oluştur” butonuna tıklayın.
 - Sözleşme oluşturulduktan sonra “Sözleşmeyi indir (Word)” butonuna tıklayarak belgeyi indirin.
 
-## 🏠 2. Alım-Satım Sözleşmesi
+### 🏠 2. Alım-Satım Sözleşmesi
 
 - Taşınmazın tapu ve adres bilgilerini (Pafta, Ada, Parsel vb.), alıcı-satıcı bilgilerini ve fiyat detaylarını girin.
 - “Sözleşmeyi Oluştur” butonuna basın.
 - Görünen “Sözleşmeyi indir (Word)” butonu ile alım-satım ön protokolünü indirin.
 
-## ⚖️ Yasal Uyarı
-
-## ⚠️ Dikkat:
+### ⚖️ Yasal Uyarı
 **Bu uygulama tarafından oluşturulan sözleşmeler, standart şablonlardır ve yalnızca taslak niteliğindedir.
 Hukuki geçerliliğin sağlanması ve özel durumlarınıza uygun hale getirilmesi için mutlaka bir avukat tarafından gözden geçirilmelidir.**
 
 **Uygulama geliştiricisi, sözleşmelerin kullanımından doğacak hiçbir sorumluluğu kabul etmez.**
 
-## 📚 Kullanılan Teknolojiler
+### 📚 Kullanılan Teknolojiler
 Streamlit
 python-docx
 Python Standart Kütüphaneleri
 
-## 👨‍💻 Geliştirici Notu:
+### 👨‍💻 Geliştirici Notu:
 **Bu proje, gayrimenkul işlemlerinde sık kullanılan sözleşme metinlerini hızlıca oluşturmak isteyen kullanıcılar için geliştirilmiştir.**
